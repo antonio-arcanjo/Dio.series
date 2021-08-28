@@ -13,5 +13,15 @@ namespace DIO.Series.Interfaces
 
     }
 
+/*public interface IRepositorio2<L>
+    {
+        List<T> Lista2();
+        L RetornaPorId2(int id);
+        void Insere2(L entidade);
+        void Exclui2(int id);
+        void Atualiza2(int id, L entidade);
+        int ProximoId2();
+
+    }*/
  
 }
